@@ -1,0 +1,49 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="ruby-2.3.3-p0" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.3p0" />
+      <homePath value="C:/DEVSSE/Tools/jruby/jruby-9.1.9.0/bin/ruby.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.9.0/lib/ruby/stdlib" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.9.0/lib/ruby/stdlib" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.3p0" PLATFORM="mswin32-x86_64" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="C:\DEVSSE\Tools\jruby\jruby-9.1.9.0\bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="jruby-9.1.9.0-p0" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.9.1.9.0p0 (2.3.0) VM" />
+      <homePath value="C:/DEVSSE/Tools/jruby/jruby-9.1.9.0/bin/jruby.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+            <root type="simple" url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.9.0/lib/ruby/stdlib" />
+            <root type="simple" url="jar://C:/DEVSSE/Tools/jruby/jruby-9.1.9.0/lib/jruby.jar!/jruby" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.9.0/lib/ruby/stdlib" />
+            <root type="simple" url="jar://C:/DEVSSE/Tools/jruby/jruby-9.1.9.0/lib/jruby.jar!/jruby" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.9.1.9.0p0 (2.3.0) VM" PLATFORM="mswin32-x86_64" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="C:\DEVSSE\Tools\jruby\jruby-9.1.9.0\bin" />
+    </jdk>
+  </component>
+</application>
