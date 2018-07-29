@@ -1,6 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
+    <option name="version" value="2.7.0" />
+    <option name="isContrastMode" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="monochromeIcons" value="true" />
     <option name="userId" value="-37551f23:164d314198f:-8000" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
