@@ -1,13 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.7.0" />
+    <option name="version" value="1.6.1" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="009688" />
     <option name="darkTitleBar" value="true" />
-    <option name="settingsSelectedTab" value="2" />
-    <option name="userId" value="-37551f23:164d314198f:-8000" />
-    <option name="allowDataCollection" value="true" />
-    <option name="overrideAccentColor" value="true" />
   </component>
 </application>
