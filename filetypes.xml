@@ -1,6 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile-alpine" type="Dockerfile" />
+    </extensionMap>
+  </component>
+</application>
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
