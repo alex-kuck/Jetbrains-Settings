@@ -68,6 +68,18 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/actioncable-5.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.2.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/actioncable-5.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/actioncable-5.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v5.1.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -114,6 +126,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/actionmailer-5.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.2.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/actionmailer-5.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/actionmailer-5.2.2/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v5.1.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -164,6 +188,18 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/actionpack-5.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.2.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/actionpack-5.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/actionpack-5.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v5.1.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -210,6 +246,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/actionview-5.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.2.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/actionview-5.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/actionview-5.2.2/lib" />
       </SOURCES>
     </library>
     <library name="activejob (v5.1.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -260,6 +308,18 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/activejob-5.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.2.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activejob-5.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activejob-5.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v5.1.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -306,6 +366,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/activemodel-5.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.2.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activemodel-5.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activemodel-5.2.2/lib" />
       </SOURCES>
     </library>
     <library name="activemodel-serializers-xml (v1.0.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -388,6 +460,23 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/activerecord-5.2.2/examples" />
       </excluded>
     </library>
+    <library name="activerecord (v5.2.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-5.2.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-5.2.2/examples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-5.2.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-5.2.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-5.2.2/examples" />
+      </excluded>
+    </library>
     <library name="activerecord-import (v0.27.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -409,6 +498,29 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/activerecord-import-0.27.0/test" />
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/activerecord-import-0.27.0/gemfiles" />
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/activerecord-import-0.27.0/benchmarks" />
+      </excluded>
+    </library>
+    <library name="activerecord-import (v0.27.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-import-0.27.0/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-import-0.27.0/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-import-0.27.0/gemfiles" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-import-0.27.0/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-import-0.27.0/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-import-0.27.0/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-import-0.27.0/gemfiles" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-import-0.27.0/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-import-0.27.0/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-import-0.27.0/gemfiles" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-import-0.27.0/benchmarks" />
       </excluded>
     </library>
     <library name="activerecord-jdbc-adapter (v52.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -434,6 +546,29 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/activerecord-jdbc-adapter-52.1-java/rails_generators" />
       </excluded>
     </library>
+    <library name="activerecord-jdbc-adapter (v52.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-jdbc-adapter-52.1-java/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-jdbc-adapter-52.1-java/src" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-jdbc-adapter-52.1-java/rakelib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-jdbc-adapter-52.1-java/rails_generators" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-jdbc-adapter-52.1-java/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-jdbc-adapter-52.1-java/src" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-jdbc-adapter-52.1-java/rakelib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-jdbc-adapter-52.1-java/rails_generators" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-jdbc-adapter-52.1-java/src" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-jdbc-adapter-52.1-java/rakelib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-jdbc-adapter-52.1-java/rails_generators" />
+      </excluded>
+    </library>
     <library name="activerecord-jdbcpostgresql-adapter (v52.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -444,6 +579,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/activerecord-jdbcpostgresql-adapter-52.1-java/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord-jdbcpostgresql-adapter (v52.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-jdbcpostgresql-adapter-52.1-java/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activerecord-jdbcpostgresql-adapter-52.1-java/lib" />
       </SOURCES>
     </library>
     <library name="activerecord-jdbcsqlite3-adapter (v52.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -524,6 +671,28 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/activestorage-5.2.2/config" />
       </excluded>
     </library>
+    <library name="activestorage (v5.2.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activestorage-5.2.2/db" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activestorage-5.2.2/app" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activestorage-5.2.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activestorage-5.2.2/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activestorage-5.2.2/db" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activestorage-5.2.2/app" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activestorage-5.2.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activestorage-5.2.2/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activestorage-5.2.2/db" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activestorage-5.2.2/config" />
+      </excluded>
+    </library>
     <library name="activesupport (v5.1.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -570,6 +739,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/activesupport-5.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.2.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activesupport-5.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/activesupport-5.2.2/lib" />
       </SOURCES>
     </library>
     <library name="adamantium (v0.2.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -672,6 +853,23 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/api-pagination-4.8.2/spec" />
       </excluded>
     </library>
+    <library name="api-pagination (v4.8.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/api-pagination-4.8.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/api-pagination-4.8.2/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/api-pagination-4.8.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/api-pagination-4.8.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/api-pagination-4.8.2/spec" />
+      </excluded>
+    </library>
     <library name="arel (v8.0.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -694,6 +892,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/arel-9.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v9.0.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/arel-9.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/arel-9.0.0/lib" />
       </SOURCES>
     </library>
     <library name="arrayfields (v4.9.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -826,6 +1036,25 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/autoprefixer-rails-9.4.2/spec" />
       </excluded>
     </library>
+    <library name="autoprefixer-rails (v9.4.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/autoprefixer-rails-9.4.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/autoprefixer-rails-9.4.2/spec" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/autoprefixer-rails-9.4.2/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/autoprefixer-rails-9.4.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/autoprefixer-rails-9.4.2/spec" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/autoprefixer-rails-9.4.2/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/autoprefixer-rails-9.4.2/spec" />
+      </excluded>
+    </library>
     <library name="aws-eventstream (v1.0.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -836,6 +1065,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/aws-eventstream-1.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-eventstream (v1.0.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/aws-eventstream-1.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/aws-eventstream-1.0.1/lib" />
       </SOURCES>
     </library>
     <library name="aws-partitions (v1.115.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -862,6 +1103,18 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/aws-partitions-1.122.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.122.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/aws-partitions-1.122.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/aws-partitions-1.122.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-core (v3.39.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -884,6 +1137,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/aws-sdk-core-3.44.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.44.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/aws-sdk-core-3.44.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/aws-sdk-core-3.44.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-kms (v1.12.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -910,6 +1175,18 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/aws-sdk-kms-1.13.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-kms (v1.13.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/aws-sdk-kms-1.13.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/aws-sdk-kms-1.13.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-s3 (v1.0.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -920,6 +1197,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/aws-sdk-s3-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-s3 (v1.0.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/aws-sdk-s3-1.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/aws-sdk-s3-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv4 (v1.0.3, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -934,6 +1223,18 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/aws-sigv4-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sigv4 (v1.0.3, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/aws-sigv4-1.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/aws-sigv4-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="babel-source (v5.8.35, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -946,6 +1247,18 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/babel-source-5.8.35/lib" />
       </SOURCES>
     </library>
+    <library name="babel-source (v5.8.35, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/babel-source-5.8.35/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/babel-source-5.8.35/lib" />
+      </SOURCES>
+    </library>
     <library name="babel-transpiler (v0.7.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -956,6 +1269,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/babel-transpiler-0.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="babel-transpiler (v0.7.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/babel-transpiler-0.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/babel-transpiler-0.7.0/lib" />
       </SOURCES>
     </library>
     <library name="bootstrap (v4.1.3, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -981,6 +1306,29 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/bootstrap-4.1.3/assets" />
       </excluded>
     </library>
+    <library name="bootstrap (v4.1.3, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/bootstrap-4.1.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/bootstrap-4.1.3/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/bootstrap-4.1.3/tasks" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/bootstrap-4.1.3/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/bootstrap-4.1.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/bootstrap-4.1.3/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/bootstrap-4.1.3/tasks" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/bootstrap-4.1.3/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/bootstrap-4.1.3/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/bootstrap-4.1.3/tasks" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/bootstrap-4.1.3/assets" />
+      </excluded>
+    </library>
     <library name="builder (v3.2.3, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1004,6 +1352,29 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/builder-3.2.3/rakelib" />
       </excluded>
     </library>
+    <library name="builder (v3.2.3, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/builder-3.2.3/doc" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/builder-3.2.3/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/builder-3.2.3/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/builder-3.2.3/doc" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/builder-3.2.3/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/builder-3.2.3/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/builder-3.2.3/doc" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/builder-3.2.3/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/builder-3.2.3/rakelib" />
+      </excluded>
+    </library>
     <library name="bundler (v1.16.4, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1022,6 +1393,26 @@
       <excluded>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/bundler-1.16.4/exe" />
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/bundler-1.16.4/man" />
+      </excluded>
+    </library>
+    <library name="bundler (v1.16.6, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/-885661669/gems/bundler-1.16.6/exe" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/-885661669/gems/bundler-1.16.6/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/-885661669/gems/bundler-1.16.6/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/-885661669/gems/bundler-1.16.6/exe" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/-885661669/gems/bundler-1.16.6/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/-885661669/gems/bundler-1.16.6/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/-885661669/gems/bundler-1.16.6/exe" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/-885661669/gems/bundler-1.16.6/man" />
       </excluded>
     </library>
     <library name="bundler (v2.0.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -1243,6 +1634,23 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/concurrent-ruby-1.1.3/ext" />
       </excluded>
     </library>
+    <library name="concurrent-ruby (v1.1.3, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/concurrent-ruby-1.1.3/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/concurrent-ruby-1.1.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/concurrent-ruby-1.1.3/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/concurrent-ruby-1.1.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/concurrent-ruby-1.1.3/ext" />
+      </excluded>
+    </library>
     <library name="connection_pool (v2.2.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1258,6 +1666,23 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/connection_pool-2.2.2/test" />
+      </excluded>
+    </library>
+    <library name="connection_pool (v2.2.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/connection_pool-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/connection_pool-2.2.2/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/connection_pool-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/connection_pool-2.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/connection_pool-2.2.2/test" />
       </excluded>
     </library>
     <library name="crack (v0.4.3, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -1295,6 +1720,23 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/crass-1.0.4/test" />
+      </excluded>
+    </library>
+    <library name="crass (v1.0.4, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/crass-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/crass-1.0.4/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/crass-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/crass-1.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/crass-1.0.4/test" />
       </excluded>
     </library>
     <library name="deterministic (v0.16.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -1498,6 +1940,23 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/erubi-1.7.1/test" />
       </excluded>
     </library>
+    <library name="erubi (v1.7.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/erubi-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/erubi-1.7.1/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/erubi-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/erubi-1.7.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/erubi-1.7.1/test" />
+      </excluded>
+    </library>
     <library name="erubis (v2.7.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1543,6 +2002,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/execjs-2.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="execjs (v2.7.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/execjs-2.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
     <library name="faraday (v0.13.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -1642,6 +2113,14 @@
       <SOURCES />
     </library>
     <library name="ffi (v1.9.25, jruby-9.1.17.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="ffi (v1.9.25, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
@@ -1855,6 +2334,28 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/font_awesome5_rails-0.4.3/spec" />
       </excluded>
     </library>
+    <library name="font_awesome5_rails (v0.4.3, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/font_awesome5_rails-0.4.3/app" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/font_awesome5_rails-0.4.3/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/font_awesome5_rails-0.4.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/font_awesome5_rails-0.4.3/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/font_awesome5_rails-0.4.3/app" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/font_awesome5_rails-0.4.3/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/font_awesome5_rails-0.4.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/font_awesome5_rails-0.4.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/font_awesome5_rails-0.4.3/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/font_awesome5_rails-0.4.3/spec" />
+      </excluded>
+    </library>
     <library name="globalid (v0.4.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1877,6 +2378,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/globalid-0.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="globalid (v0.4.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/globalid-0.4.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/globalid-0.4.1/lib" />
       </SOURCES>
     </library>
     <library name="hashdiff (v0.3.7, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -2096,6 +2609,26 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/i18n-1.1.1/gemfiles" />
       </excluded>
     </library>
+    <library name="i18n (v1.1.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/i18n-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/i18n-1.1.1/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/i18n-1.1.1/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/i18n-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/i18n-1.1.1/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/i18n-1.1.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/i18n-1.1.1/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/i18n-1.1.1/gemfiles" />
+      </excluded>
+    </library>
     <library name="i18n-tasks (v0.9.28, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2157,6 +2690,23 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/interactor-3.1.1/spec" />
+      </excluded>
+    </library>
+    <library name="interactor (v3.1.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/interactor-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/interactor-3.1.1/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/interactor-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/interactor-3.1.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/interactor-3.1.1/spec" />
       </excluded>
     </library>
     <library name="interactor-rails (v2.2.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -2244,6 +2794,26 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/jbuilder-2.8.0/gemfiles" />
       </excluded>
     </library>
+    <library name="jbuilder (v2.8.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jbuilder-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jbuilder-2.8.0/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jbuilder-2.8.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jbuilder-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jbuilder-2.8.0/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jbuilder-2.8.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jbuilder-2.8.0/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jbuilder-2.8.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="jdbc-postgres (v42.1.4, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2254,6 +2824,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/jdbc-postgres-42.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="jdbc-postgres (v42.1.4, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jdbc-postgres-42.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jdbc-postgres-42.1.4/lib" />
       </SOURCES>
     </library>
     <library name="jdbc-sqlite3 (v3.20.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -2278,6 +2860,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/jmespath-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="jmespath (v1.4.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jmespath-1.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jmespath-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="jquery-rails (v4.3.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -2316,6 +2910,25 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/jquery-rails-4.3.3/test" />
+      </excluded>
+    </library>
+    <library name="jquery-rails (v4.3.3, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jquery-rails-4.3.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jquery-rails-4.3.3/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jquery-rails-4.3.3/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jquery-rails-4.3.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jquery-rails-4.3.3/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jquery-rails-4.3.3/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jquery-rails-4.3.3/test" />
       </excluded>
     </library>
     <library name="jruby-9.1.17.0-p0 facet library">
@@ -2463,6 +3076,23 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/jwt-2.1.0/spec" />
       </excluded>
     </library>
+    <library name="jwt (v2.1.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jwt-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jwt-2.1.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jwt-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jwt-2.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/jwt-2.1.0/spec" />
+      </excluded>
+    </library>
     <library name="kaminari (v1.1.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2590,6 +3220,38 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/kramdown-1.17.0/benchmark" />
       </excluded>
     </library>
+    <library name="kramdown (v1.17.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/doc" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/man" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/data" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/benchmark" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/doc" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/man" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/data" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/doc" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/man" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/data" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/kramdown-1.17.0/benchmark" />
+      </excluded>
+    </library>
     <library name="launchy (v2.4.3, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2681,6 +3343,18 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/lograge-0.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="lograge (v0.10.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/lograge-0.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/lograge-0.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="lograge (v0.5.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2753,6 +3427,26 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/loofah-2.2.3/benchmark" />
       </excluded>
     </library>
+    <library name="loofah (v2.2.3, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/loofah-2.2.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/loofah-2.2.3/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/loofah-2.2.3/benchmark" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/loofah-2.2.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/loofah-2.2.3/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/loofah-2.2.3/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/loofah-2.2.3/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/loofah-2.2.3/benchmark" />
+      </excluded>
+    </library>
     <library name="mail (v2.6.6, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2787,6 +3481,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/mail-2.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mail (v2.7.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mail-2.7.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mail-2.7.1/lib" />
       </SOURCES>
     </library>
     <library name="main (v6.2.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -2853,6 +3559,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/marcel-0.3.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="marcel (v0.3.3, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/marcel-0.3.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/marcel-0.3.3/lib" />
       </SOURCES>
     </library>
     <library name="memoizable (v0.4.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -2944,6 +3662,23 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/method_source-0.9.2/spec" />
+      </excluded>
+    </library>
+    <library name="method_source (v0.9.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/method_source-0.9.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/method_source-0.9.2/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/method_source-0.9.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/method_source-0.9.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/method_source-0.9.2/spec" />
       </excluded>
     </library>
     <library name="metric_fu (v4.12.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -3086,6 +3821,26 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/mimemagic-0.3.2/script" />
       </excluded>
     </library>
+    <library name="mimemagic (v0.3.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mimemagic-0.3.2/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mimemagic-0.3.2/script" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mimemagic-0.3.2/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mimemagic-0.3.2/script" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mimemagic-0.3.2/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mimemagic-0.3.2/script" />
+      </excluded>
+    </library>
     <library name="mini_mime (v1.0.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3104,6 +3859,26 @@
       <excluded>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/mini_mime-1.0.1/bin" />
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/mini_mime-1.0.1/bench" />
+      </excluded>
+    </library>
+    <library name="mini_mime (v1.0.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mini_mime-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mini_mime-1.0.1/bench" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mini_mime-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mini_mime-1.0.1/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/mini_mime-1.0.1/bench" />
       </excluded>
     </library>
     <library name="minitest (v5.10.3, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -3138,6 +3913,23 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/minitest-5.11.3/test" />
+      </excluded>
+    </library>
+    <library name="minitest (v5.11.3, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/minitest-5.11.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/minitest-5.11.3/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/minitest-5.11.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/minitest-5.11.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/minitest-5.11.3/test" />
       </excluded>
     </library>
     <library name="minitest (v5.4.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -3204,6 +3996,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.13.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_xml (v0.6.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -3315,6 +4119,32 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/examples" />
       </excluded>
     </library>
+    <library name="nio4r (v2.3.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nio4r-2.3.1-java/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nio4r-2.3.1-java/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nio4r-2.3.1-java/spec" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nio4r-2.3.1-java/tasks" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nio4r-2.3.1-java/examples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nio4r-2.3.1-java/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nio4r-2.3.1-java/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nio4r-2.3.1-java/spec" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nio4r-2.3.1-java/tasks" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nio4r-2.3.1-java/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nio4r-2.3.1-java/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nio4r-2.3.1-java/spec" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nio4r-2.3.1-java/tasks" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nio4r-2.3.1-java/examples" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.8.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3409,6 +4239,38 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/tasks" />
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/patches" />
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/suppressions" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.8.5, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/tasks" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/patches" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/suppressions" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/tasks" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/patches" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/suppressions" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/tasks" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/patches" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/nokogiri-1.8.5-java/suppressions" />
       </excluded>
     </library>
     <library name="oauth (v0.5.3, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -3627,6 +4489,18 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/pagy-0.21.0/lib" />
       </SOURCES>
     </library>
+    <library name="pagy (v0.21.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/pagy-0.21.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/pagy-0.21.0/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.12.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3788,6 +4662,23 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/popper_js-1.14.5/assets" />
       </excluded>
     </library>
+    <library name="popper_js (v1.14.5, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/popper_js-1.14.5/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/popper_js-1.14.5/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/popper_js-1.14.5/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/popper_js-1.14.5/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/popper_js-1.14.5/assets" />
+      </excluded>
+    </library>
     <library name="power_assert (v0.2.3, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3879,6 +4770,18 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/prometheus-client-0.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="prometheus-client (v0.7.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/prometheus-client-0.7.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/prometheus-client-0.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="public_suffix (v2.0.5, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3948,6 +4851,32 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/puma-3.12.0-java/tools" />
       </excluded>
     </library>
+    <library name="puma (v3.12.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/puma-3.12.0-java/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/puma-3.12.0-java/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/puma-3.12.0-java/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/puma-3.12.0-java/docs" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/puma-3.12.0-java/tools" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/puma-3.12.0-java/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/puma-3.12.0-java/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/puma-3.12.0-java/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/puma-3.12.0-java/docs" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/puma-3.12.0-java/tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/puma-3.12.0-java/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/puma-3.12.0-java/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/puma-3.12.0-java/docs" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/puma-3.12.0-java/tools" />
+      </excluded>
+    </library>
     <library name="puma (v3.9.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4002,6 +4931,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/quantile-0.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="quantile (v0.2.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/quantile-0.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/quantile-0.2.1/lib" />
       </SOURCES>
     </library>
     <library name="rack (v2.0.3, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -4082,6 +5023,32 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/rack-2.0.6/example" />
       </excluded>
     </library>
+    <library name="rack (v2.0.6, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-2.0.6/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-2.0.6/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-2.0.6/contrib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-2.0.6/example" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-2.0.6/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-2.0.6/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-2.0.6/contrib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-2.0.6/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-2.0.6/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-2.0.6/contrib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-2.0.6/example" />
+      </excluded>
+    </library>
     <library name="rack-cache (v1.7.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4135,6 +5102,23 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/rack-proxy-0.6.5/test" />
       </excluded>
     </library>
+    <library name="rack-proxy (v0.6.5, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-proxy-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-proxy-0.6.5/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-proxy-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-proxy-0.6.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-proxy-0.6.5/test" />
+      </excluded>
+    </library>
     <library name="rack-test (v0.6.3, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4162,6 +5146,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/rack-test-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v1.1.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-test-1.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rack-test-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="rails (v5.1.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -4196,6 +5192,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="rails (v5.2.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="rails-dom-testing (v2.0.3, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4211,6 +5215,23 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/rails-dom-testing-2.0.3/test" />
+      </excluded>
+    </library>
+    <library name="rails-dom-testing (v2.0.3, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-dom-testing-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-dom-testing-2.0.3/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-dom-testing-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-dom-testing-2.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-dom-testing-2.0.3/test" />
       </excluded>
     </library>
     <library name="rails-html-sanitizer (v1.0.3, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -4247,6 +5268,23 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/rails-html-sanitizer-1.0.4/test" />
       </excluded>
     </library>
+    <library name="rails-html-sanitizer (v1.0.4, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-html-sanitizer-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-html-sanitizer-1.0.4/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-html-sanitizer-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-html-sanitizer-1.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-html-sanitizer-1.0.4/test" />
+      </excluded>
+    </library>
     <library name="rails-i18n (v5.1.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4279,6 +5317,23 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/rails-i18n-5.1.2/rails" />
+      </excluded>
+    </library>
+    <library name="rails-i18n (v5.1.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-i18n-5.1.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-i18n-5.1.2/rails" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-i18n-5.1.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-i18n-5.1.2/rails" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rails-i18n-5.1.2/rails" />
       </excluded>
     </library>
     <library name="rails_best_practices (v1.19.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -4391,6 +5446,23 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/railties-5.2.2/exe" />
+      </excluded>
+    </library>
+    <library name="railties (v5.2.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/railties-5.2.2/exe" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/railties-5.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/railties-5.2.2/exe" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/railties-5.2.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/railties-5.2.2/exe" />
       </excluded>
     </library>
     <library name="rainbow (v2.2.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -4520,6 +5592,29 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/rake-12.3.2/exe" />
       </excluded>
     </library>
+    <library name="rake (v12.3.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rake-12.3.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rake-12.3.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rake-12.3.2/exe" />
+      </excluded>
+    </library>
     <library name="rb-fsevent (v0.10.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4560,6 +5655,26 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/rb-fsevent-0.10.3/ext" />
       </excluded>
     </library>
+    <library name="rb-fsevent (v0.10.3, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rb-fsevent-0.10.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rb-fsevent-0.10.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rb-fsevent-0.10.3/ext" />
+      </excluded>
+    </library>
     <library name="rb-inotify (v0.9.10, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4575,6 +5690,23 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/rb-inotify-0.9.10/spec" />
+      </excluded>
+    </library>
+    <library name="rb-inotify (v0.9.10, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rb-inotify-0.9.10/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rb-inotify-0.9.10/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rb-inotify-0.9.10/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rb-inotify-0.9.10/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/rb-inotify-0.9.10/spec" />
       </excluded>
     </library>
     <library name="rdoc (v4.2.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -4623,6 +5755,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/react-rails-2.4.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="react-rails (v2.4.7, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/react-rails-2.4.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/react-rails-2.4.7/lib" />
       </SOURCES>
     </library>
     <library name="redcard (v1.1.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -4726,6 +5870,35 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/redis-4.0.3/benchmarking" />
       </excluded>
     </library>
+    <library name="redis (v4.0.3, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/.travis" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/examples" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/benchmarking" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/.travis" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/examples" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/benchmarking" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/.travis" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/examples" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/redis-4.0.3/benchmarking" />
+      </excluded>
+    </library>
     <library name="reek (v2.2.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4760,6 +5933,21 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/reek-2.2.1/config" />
       </excluded>
     </library>
+    <library name="Remote: jruby-2.3.3-p0 facet library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/-635254530/gems" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/-885661669/gems" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/-635254530/gems" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/-885661669/gems" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </SOURCES>
+    </library>
     <library name="request_store (v1.4.1, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4775,6 +5963,23 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/request_store-1.4.1/test" />
+      </excluded>
+    </library>
+    <library name="request_store (v1.4.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/request_store-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/request_store-1.4.1/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/request_store-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/request_store-1.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/request_store-1.4.1/test" />
       </excluded>
     </library>
     <library name="require_all (v1.4.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -5312,6 +6517,29 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/sass-3.7.2/rails" />
       </excluded>
     </library>
+    <library name="sass (v3.7.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-3.7.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-3.7.2/extra" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-3.7.2/rails" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-3.7.2/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-3.7.2/extra" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-3.7.2/rails" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-3.7.2/extra" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-3.7.2/rails" />
+      </excluded>
+    </library>
     <library name="sass-listen (v4.0.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5322,6 +6550,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/sass-listen-4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass-listen (v4.0.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-listen-4.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-listen-4.0.0/lib" />
       </SOURCES>
     </library>
     <library name="sass-rails (v5.0.6, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -5346,6 +6586,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/sass-rails-5.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass-rails (v5.0.7, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-rails-5.0.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sass-rails-5.0.7/lib" />
       </SOURCES>
     </library>
     <library name="sexp_processor (v4.10.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -5541,6 +6793,23 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/sprockets-3.7.2/bin" />
       </excluded>
     </library>
+    <library name="sprockets (v3.7.2, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sprockets-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sprockets-3.7.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sprockets-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sprockets-3.7.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sprockets-3.7.2/bin" />
+      </excluded>
+    </library>
     <library name="sprockets-rails (v3.2.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5563,6 +6832,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/sprockets-rails-3.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v3.2.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sprockets-rails-3.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sprockets-rails-3.2.1/lib" />
       </SOURCES>
     </library>
     <library name="stream (v0.5, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -5617,6 +6898,23 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/sucker_punch-2.1.1/test" />
+      </excluded>
+    </library>
+    <library name="sucker_punch (v2.1.1, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sucker_punch-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sucker_punch-2.1.1/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sucker_punch-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sucker_punch-2.1.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/sucker_punch-2.1.1/test" />
       </excluded>
     </library>
     <library name="terminal-table (v1.8.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -5707,6 +7005,23 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/therubyrhino-2.0.4/spec" />
       </excluded>
     </library>
+    <library name="therubyrhino (v2.0.4, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/therubyrhino-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/therubyrhino-2.0.4/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/therubyrhino-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/therubyrhino-2.0.4/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/therubyrhino-2.0.4/spec" />
+      </excluded>
+    </library>
     <library name="therubyrhino_jar (v1.7.6, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5717,6 +7032,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/therubyrhino_jar-1.7.6/jar" />
+      </SOURCES>
+    </library>
+    <library name="therubyrhino_jar (v1.7.6, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/therubyrhino_jar-1.7.6/jar" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/therubyrhino_jar-1.7.6/jar" />
       </SOURCES>
     </library>
     <library name="thor (v0.19.4, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -5770,6 +7097,23 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/thor-0.20.3/bin" />
       </excluded>
     </library>
+    <library name="thor (v0.20.3, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thor-0.20.3/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thor-0.20.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thor-0.20.3/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thor-0.20.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thor-0.20.3/bin" />
+      </excluded>
+    </library>
     <library name="thread_safe (v0.3.6, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5797,6 +7141,35 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/tasks" />
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/examples" />
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/yard-template" />
+      </excluded>
+    </library>
+    <library name="thread_safe (v0.3.6, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/spec" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/tasks" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/examples" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/yard-template" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/spec" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/tasks" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/examples" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/yard-template" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/spec" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/tasks" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/examples" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/thread_safe-0.3.6-java/yard-template" />
       </excluded>
     </library>
     <library name="tilt (v2.0.8, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -5851,6 +7224,32 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/tilt-2.0.9/test" />
       </excluded>
     </library>
+    <library name="tilt (v2.0.9, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tilt-2.0.9/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tilt-2.0.9/man" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tilt-2.0.9/docs" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tilt-2.0.9/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tilt-2.0.9/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tilt-2.0.9/man" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tilt-2.0.9/docs" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tilt-2.0.9/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tilt-2.0.9/man" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tilt-2.0.9/docs" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tilt-2.0.9/test" />
+      </excluded>
+    </library>
     <library name="turbolinks (v5.2.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5863,6 +7262,18 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/turbolinks-5.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="turbolinks (v5.2.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/turbolinks-5.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/turbolinks-5.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="turbolinks-source (v5.2.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5873,6 +7284,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/turbolinks-source-5.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="turbolinks-source (v5.2.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/turbolinks-source-5.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/turbolinks-source-5.2.0/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.3, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -5909,6 +7332,23 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/tzinfo-1.2.5/test" />
       </excluded>
     </library>
+    <library name="tzinfo (v1.2.5, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tzinfo-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tzinfo-1.2.5/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tzinfo-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tzinfo-1.2.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tzinfo-1.2.5/test" />
+      </excluded>
+    </library>
     <library name="tzinfo-data (v1.2018.3, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5943,6 +7383,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/tzinfo-data-1.2018.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo-data (v1.2018.7, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tzinfo-data-1.2018.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/tzinfo-data-1.2018.7/lib" />
       </SOURCES>
     </library>
     <library name="uglifier (v3.2.0, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -5991,6 +7443,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/uglifier-4.1.20/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.20, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/uglifier-4.1.20/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/uglifier-4.1.20/lib" />
       </SOURCES>
     </library>
     <library name="unf (v0.1.4, jruby-9.1.17.0-p0) [gem]" type="rubylib">
@@ -6145,6 +7609,32 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/webpacker-3.5.5/gemfiles" />
       </excluded>
     </library>
+    <library name="webpacker (v3.5.5, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/webpacker-3.5.5/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/webpacker-3.5.5/docs" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/webpacker-3.5.5/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/webpacker-3.5.5/package" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/webpacker-3.5.5/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/webpacker-3.5.5/lib" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/webpacker-3.5.5/docs" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/webpacker-3.5.5/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/webpacker-3.5.5/package" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/webpacker-3.5.5/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/webpacker-3.5.5/docs" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/webpacker-3.5.5/test" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/webpacker-3.5.5/package" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/webpacker-3.5.5/gemfiles" />
+      </excluded>
+    </library>
     <library name="websocket-driver (v0.6.5, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -6182,6 +7672,23 @@
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/websocket-driver-0.7.0-java/ext" />
       </excluded>
     </library>
+    <library name="websocket-driver (v0.7.0, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/websocket-driver-0.7.0-java/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/websocket-driver-0.7.0-java/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/websocket-driver-0.7.0-java/ext" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/websocket-driver-0.7.0-java/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/websocket-driver-0.7.0-java/ext" />
+      </excluded>
+    </library>
     <library name="websocket-extensions (v0.1.2, jruby-9.1.17.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -6204,6 +7711,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/DEVSSE/Tools/jruby/jruby-9.1.17.0/jruby-9.1.17.0/lib/ruby/gems/shared/gems/websocket-extensions-0.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket-extensions (v0.1.3, Remote: jruby-2.3.3-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/websocket-extensions-0.1.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/ruby_stubs/603948876/1322250864/gems/websocket-extensions-0.1.3/lib" />
       </SOURCES>
     </library>
   </component>
