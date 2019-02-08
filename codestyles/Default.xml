@@ -190,4 +190,8 @@
       </rules>
     </arrangement>
   </codeStyleSettings>
+  <codeStyleSettings language="ruby">
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+  </codeStyleSettings>
 </code_scheme>
