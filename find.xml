@@ -14,5 +14,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>!*IT.java</mask>
   </component>
 </application>
