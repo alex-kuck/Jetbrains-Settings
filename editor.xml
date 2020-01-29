@@ -12,4 +12,23 @@
   <component name="RubyEditorOptions">
     <option name="startInterpolationOnHash" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern useCustomColors="true" pattern="TODO:">
+      <option name="FOREGROUND" value="242424" />
+      <option name="BACKGROUND" value="ffbf0f" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="NOTE:">
+      <option name="FOREGROUND" value="ffffff" />
+      <option name="BACKGROUND" value="f70097" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_TYPE" value="4" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="FIXME:">
+      <option name="FOREGROUND" value="ffffff" />
+      <option name="BACKGROUND" value="aa0b0b" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+  </component>
 </application>

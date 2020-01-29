@@ -17,8 +17,9 @@
     <mask>*test*</mask>
     <mask>*.tsx</mask>
     <mask>!*Test.java</mask>
-    <mask>*.java</mask>
     <mask>*.ts*</mask>
     <mask>*Test.java</mask>
+    <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
