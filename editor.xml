@@ -1,15 +1,34 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="FONT_SIZE" value="13" />
+    <option name="FONT_FAMILY" value="Dank Mono" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-  </component>
-  <component name="JSEditorOptions">
-    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
   </component>
   <component name="RubyEditorOptions">
     <option name="startInterpolationOnHash" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern useCustomColors="true" pattern="TODO:">
+      <option name="FOREGROUND" value="242424" />
+      <option name="BACKGROUND" value="ffbf0f" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="NOTE:">
+      <option name="FOREGROUND" value="ffffff" />
+      <option name="BACKGROUND" value="f70097" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_TYPE" value="4" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="FIXME:">
+      <option name="FOREGROUND" value="ffffff" />
+      <option name="BACKGROUND" value="aa0b0b" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
   </component>
 </application>
