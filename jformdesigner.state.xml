@@ -7,7 +7,7 @@
       <entry key="newcontainer.layoutmanager" value="com.jgoodies.forms.layout.FormLayout" />
       <node name="forms">
         <entry key="paletteexpanded-2018430881" value="components,containers" />
-        <entry key="selection-2018430881" value="checkBox1" />
+        <entry key="selection-2018430881" value="endpriceComputationChkB" />
       </node>
     </node>
   </component>
