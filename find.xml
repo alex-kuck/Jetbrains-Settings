@@ -20,7 +20,7 @@
     <mask>*.sql</mask>
     <mask>!*.log</mask>
     <mask>*.ts*</mask>
-    <mask>*.xsd</mask>
     <mask>*.ts</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
