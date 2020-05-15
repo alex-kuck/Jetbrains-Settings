@@ -11,7 +11,6 @@
     <mask>*.mxml</mask>
     <mask>!*IT.java</mask>
     <mask>*.properties</mask>
-    <mask>*test*</mask>
     <mask>*.tsx</mask>
     <mask>!*Test.java</mask>
     <mask>*Test.java</mask>
@@ -23,5 +22,6 @@
     <mask>*.sql</mask>
     <mask>!*.log</mask>
     <mask>*.yml</mask>
+    <mask>*test*</mask>
   </component>
 </application>
