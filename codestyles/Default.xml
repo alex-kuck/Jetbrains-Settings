@@ -28,6 +28,7 @@
     </formatting-settings>
   </DBN-SQL>
   <JSCodeStyleSettings version="0">
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
