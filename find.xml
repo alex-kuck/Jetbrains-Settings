@@ -21,7 +21,7 @@
     <mask>*test*</mask>
     <mask>*.java</mask>
     <mask>*.xsd</mask>
-    <mask>*.xml</mask>
     <mask>*.sql</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
