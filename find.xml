@@ -19,9 +19,9 @@
     <mask>*.yml</mask>
     <mask>*test*</mask>
     <mask>*.java</mask>
-    <mask>*.xsd</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>!*.log</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
