@@ -23,6 +23,7 @@
     <mask>!*.log</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
+    <mask>*Entity.java</mask>
     <mask>*.sql</mask>
   </component>
 </application>
