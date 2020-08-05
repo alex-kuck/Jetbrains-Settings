@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Entity.java" />
+    <option name="FILE_MASK" value="*Dto.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -26,5 +26,6 @@
     <mask>*.sql</mask>
     <mask>*.xsd</mask>
     <mask>*Entity.java</mask>
+    <mask>*Dto.java</mask>
   </component>
 </application>
