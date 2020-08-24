@@ -22,12 +22,12 @@
     <mask>*test*</mask>
     <mask>!*.log</mask>
     <mask>*.kt</mask>
-    <mask>*.xsd</mask>
     <mask>*Dto.java</mask>
     <mask>*.java</mask>
     <mask>*Entity.java</mask>
     <mask>*Dao*.java</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
