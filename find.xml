@@ -25,7 +25,7 @@
     <mask>*Entity.java</mask>
     <mask>*Dao*.java</mask>
     <mask>*.sql</mask>
-    <mask>*.xml</mask>
     <mask>*.xsd</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
