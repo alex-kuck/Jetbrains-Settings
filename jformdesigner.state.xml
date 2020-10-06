@@ -7,6 +7,11 @@
     <node name="designer">
       <entry key="newcontainer.layoutmanager" value="com.jgoodies.forms.layout.FormLayout" />
       <entry key="chooser.beanclass.history1" value="com.eon.pegasus.gas.client.common.component.MagnifierButton" />
+      <entry key="properties.expanded.category.expert" value="true" />
+      <entry key="properties.expanded.category.readonly" value="true" />
+      <entry key="properties.expanded.codegen" value="true" />
+      <entry key="chooser.beanclass.history2" value="javax.swing.JScrollPane" />
+      <entry key="properties.expanded.category.properties" value="false" />
       <node name="forms">
         <entry key="paletteexpanded-2018430881" value="components,containers" />
         <entry key="selection-1071759109" value="spotGasIdCB" />
@@ -14,8 +19,10 @@
         <entry key="selection702085236" value="businessPartnerRatingValidLB" />
         <entry key="selection-2018430881" value="daIndexCB" />
         <entry key="selection-1013753509" value="contactPersonTable" />
-        <entry key="selection-1166829125" value="outstandingBalancingDayITF" />
         <entry key="selection-609489895" value="this" />
+        <entry key="selection-1166829125" value="this" />
+        <entry key="selection1120209499" value="this" />
+        <entry key="selection-2076268018" value="this" />
       </node>
     </node>
   </component>
