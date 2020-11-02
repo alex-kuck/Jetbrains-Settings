@@ -69,6 +69,6 @@
       <path value="VcsNavBarToobarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="Git.Fetch" icon="$USER_HOME$/Downloads/buildLoadChanges/buildLoadChanges_dark.svg" />
+    <action id="Git.Fetch" icon="$USER_HOME$/Downloads/refresh-512.png" />
   </component>
 </application>
