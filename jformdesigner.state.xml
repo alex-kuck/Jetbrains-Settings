@@ -13,6 +13,7 @@
       <entry key="properties.expanded.codegen" value="true" />
       <entry key="chooser.beanclass.history2" value="javax.swing.JScrollPane" />
       <entry key="properties.expanded.category.properties" value="false" />
+      <entry key="chooser.beanclass.history3" value="com.eon.pegasus.gas.client.common.component.AutoFitEnumComboBox" />
       <node name="forms">
         <entry key="paletteexpanded-2018430881" value="components,containers" />
         <entry key="selection-1071759109" value="spotGasIdCB" />
@@ -24,6 +25,8 @@
         <entry key="selection-2076268018" value="this" />
         <entry key="selection-2018430881" value="daIndexCB" />
         <entry key="selection-1166829125" value="this" />
+        <entry key="selection-937544469" value="contractIdCB" />
+        <entry key="selection-1090821760" value="sourceSystemCB" />
       </node>
     </node>
   </component>
