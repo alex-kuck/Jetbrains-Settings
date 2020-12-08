@@ -28,8 +28,8 @@
     <mask>*.java</mask>
     <mask>salestrading*</mask>
     <mask>*Dao*.java</mask>
-    <mask>*.xsd</mask>
     <mask>*.sql</mask>
     <mask>*Dto.java</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
