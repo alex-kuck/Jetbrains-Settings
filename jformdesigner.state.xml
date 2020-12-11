@@ -8,12 +8,11 @@
     <node name="designer">
       <entry key="newcontainer.layoutmanager" value="com.jgoodies.forms.layout.FormLayout" />
       <entry key="chooser.beanclass.history1" value="com.eon.pegasus.gas.client.common.component.MagnifierButton" />
-      <entry key="properties.expanded.category.expert" value="true" />
-      <entry key="properties.expanded.category.readonly" value="true" />
-      <entry key="properties.expanded.codegen" value="true" />
       <entry key="chooser.beanclass.history2" value="javax.swing.JScrollPane" />
-      <entry key="properties.expanded.category.properties" value="false" />
       <entry key="chooser.beanclass.history3" value="com.eon.pegasus.gas.client.common.component.AutoFitEnumComboBox" />
+      <entry key="properties.expanded.constraints" value="false" />
+      <entry key="properties.expanded.category.properties" value="false" />
+      <entry key="properties.expanded.category.expert" value="true" />
       <node name="forms">
         <entry key="paletteexpanded-2018430881" value="components,containers" />
         <entry key="selection-1071759109" value="spotGasIdCB" />
@@ -26,7 +25,9 @@
         <entry key="selection-2018430881" value="daIndexCB" />
         <entry key="selection-937544469" value="contractIdCB" />
         <entry key="selection-1090821760" value="sourceSystemCB" />
-        <entry key="selection-1166829125" value="this" />
+        <entry key="selection-1166829125" value="contentPanelPosData1" />
+        <entry key="selection-1640084268" value="contractCustomerNameTF" />
+        <entry key="selection-1173666972" value="deviationDataBT" />
       </node>
     </node>
   </component>
