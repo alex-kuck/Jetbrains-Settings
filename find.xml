@@ -23,13 +23,15 @@
     <mask>!*.log</mask>
     <mask>*.kt</mask>
     <mask>*Entity.java</mask>
-    <mask>*.xml</mask>
     <mask>*Converter.java</mask>
-    <mask>*.java</mask>
     <mask>salestrading*</mask>
     <mask>*Dao*.java</mask>
     <mask>*.sql</mask>
     <mask>*Dto.java</mask>
     <mask>*.xsd</mask>
+    <mask>*.xml</mask>
+    <mask>pom.xml</mask>
+    <mask>*Enum.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
