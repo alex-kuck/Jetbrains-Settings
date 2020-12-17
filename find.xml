@@ -33,5 +33,7 @@
     <mask>pom.xml</mask>
     <mask>*Enum.java</mask>
     <mask>*.java</mask>
+    <mask>*Controller.java</mask>
+    <mask>*View.java</mask>
   </component>
 </application>
