@@ -2,6 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -9,17 +13,29 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.xsd</mask>
-    <mask>*.xml</mask>
     <mask>!*IT.java</mask>
     <mask>*.properties</mask>
-    <mask>!*.log</mask>
-    <mask>*test*</mask>
     <mask>*.tsx</mask>
     <mask>!*Test.java</mask>
-    <mask>*.ts*</mask>
     <mask>*Test.java</mask>
-    <mask>*.java</mask>
+    <mask>*.ts*</mask>
+    <mask>*.ts</mask>
+    <mask>*.yml</mask>
+    <mask>*test*</mask>
+    <mask>!*.log</mask>
+    <mask>*.kt</mask>
+    <mask>*Entity.java</mask>
+    <mask>*Converter.java</mask>
+    <mask>salestrading*</mask>
+    <mask>*Dao*.java</mask>
     <mask>*.sql</mask>
+    <mask>*Dto.java</mask>
+    <mask>*.xsd</mask>
+    <mask>*.xml</mask>
+    <mask>pom.xml</mask>
+    <mask>*Enum.java</mask>
+    <mask>*.java</mask>
+    <mask>*Controller.java</mask>
+    <mask>*View.java</mask>
   </component>
 </application>

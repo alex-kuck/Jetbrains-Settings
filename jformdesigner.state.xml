@@ -1,0 +1,33 @@
+<application>
+  <component name="JFormDesigner">
+    <entry key="lookandfeel.idea" value="com.mallowigi.idea.lafs.MTDarkLaf" />
+    <entry key="updates.lastcheckedversion" value="7.0.3.0.337" />
+    <entry key="updates.lastchecked" value="1607932352825" />
+    <entry key="updates.infoshown" value="true" />
+    <node name="designer">
+      <entry key="newcontainer.layoutmanager" value="com.jgoodies.forms.layout.FormLayout" />
+      <entry key="chooser.beanclass.history1" value="com.eon.pegasus.gas.client.common.component.MagnifierButton" />
+      <entry key="chooser.beanclass.history2" value="javax.swing.JScrollPane" />
+      <entry key="chooser.beanclass.history3" value="com.eon.pegasus.gas.client.common.component.AutoFitEnumComboBox" />
+      <entry key="properties.expanded.constraints" value="false" />
+      <entry key="properties.expanded.category.properties" value="false" />
+      <entry key="properties.expanded.category.expert" value="true" />
+      <node name="forms">
+        <entry key="paletteexpanded-2018430881" value="components,containers" />
+        <entry key="selection-1071759109" value="spotGasIdCB" />
+        <entry key="selection-463747533" value="panel1" />
+        <entry key="selection702085236" value="businessPartnerRatingValidLB" />
+        <entry key="selection-1013753509" value="contactPersonTable" />
+        <entry key="selection-609489895" value="this" />
+        <entry key="selection1120209499" value="this" />
+        <entry key="selection-2076268018" value="this" />
+        <entry key="selection-2018430881" value="daIndexCB" />
+        <entry key="selection-937544469" value="contractIdCB" />
+        <entry key="selection-1090821760" value="sourceSystemCB" />
+        <entry key="selection-1166829125" value="contentPanelPosData1" />
+        <entry key="selection-1640084268" value="contractCustomerNameTF" />
+        <entry key="selection-1173666972" value="deviationDataBT" />
+      </node>
+    </node>
+  </component>
+</application>
