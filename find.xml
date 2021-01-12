@@ -3,8 +3,6 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
     <mask>*.jsp</mask>
@@ -27,9 +25,7 @@
     <mask>*Converter.java</mask>
     <mask>salestrading*</mask>
     <mask>*Dao*.java</mask>
-    <mask>*.sql</mask>
     <mask>*Dto.java</mask>
-    <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*Enum.java</mask>
     <mask>*.java</mask>
@@ -37,5 +33,7 @@
     <mask>*View.java</mask>
     <mask>*Mapper.java</mask>
     <mask>*.xsd</mask>
+    <mask>*.sql</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
