@@ -19,7 +19,6 @@
     <mask>*.ts</mask>
     <mask>*.yml</mask>
     <mask>*test*</mask>
-    <mask>!*.log</mask>
     <mask>*.kt</mask>
     <mask>*Entity.java</mask>
     <mask>*Converter.java</mask>
@@ -35,5 +34,6 @@
     <mask>*.xsd</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
+    <mask>!*.log</mask>
   </component>
 </application>
