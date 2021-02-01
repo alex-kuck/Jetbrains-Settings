@@ -1,0 +1,17 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="ShowProjectStructureSettings" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Fetch" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToolbarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Git.Fetch" icon="$USER_HOME$/Downloads/refresh-512.png" />
+  </component>
+</application>
