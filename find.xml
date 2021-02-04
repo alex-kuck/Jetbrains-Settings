@@ -33,7 +33,7 @@
     <mask>*.xml</mask>
     <mask>!*.log</mask>
     <mask>*PriceSwap*.java</mask>
-    <mask>*.sql</mask>
     <mask>*.xsd</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
