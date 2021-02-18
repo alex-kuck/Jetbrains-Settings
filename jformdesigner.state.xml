@@ -9,7 +9,6 @@
       <entry key="chooser.beanclass.history1" value="com.eon.pegasus.gas.client.common.component.MagnifierButton" />
       <entry key="chooser.beanclass.history2" value="com.eon.pegasus.gas.client.common.component.AutoFitEnumComboBox" />
       <entry key="chooser.beanclass.history3" value="javax.swing.JScrollPane" />
-      <entry key="properties.expanded.constraints" value="false" />
       <entry key="properties.expanded.category.expert" value="true" />
       <entry key="newform.superclass.history1" value="javax.swing.JDialog" />
       <entry key="newform.superclass" value="javax.swing.JPanel" />
@@ -33,8 +32,8 @@
         <entry key="selection-1013753509" value="durationStartDC" />
         <entry key="paletteexpanded-398133096" value="components,containers" />
         <entry key="selection-609489895" value="this" />
-        <entry key="selection-398133096" value="okButton" />
-        <entry key="selection208489648" value="balancingGroupCB" />
+        <entry key="selection-398133096" value="dialogPane" />
+        <entry key="selection208489648" value="label1" />
       </node>
     </node>
   </component>
