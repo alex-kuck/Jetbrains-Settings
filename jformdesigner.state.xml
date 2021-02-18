@@ -2,7 +2,7 @@
   <component name="JFormDesigner">
     <entry key="lookandfeel.idea" value="com.mallowigi.idea.lafs.MTDarkLaf" />
     <entry key="updates.lastcheckedversion" value="7.0.3.0.337" />
-    <entry key="updates.lastchecked" value="1613021087670" />
+    <entry key="updates.lastchecked" value="1613628423306" />
     <entry key="updates.infoshown" value="true" />
     <node name="designer">
       <entry key="newcontainer.layoutmanager" value="com.jgoodies.forms.layout.FormLayout" />
@@ -23,9 +23,10 @@
         <entry key="selection-1173666972" value="deviationDataBT" />
         <entry key="selection-609489895" value="this" />
         <entry key="selection-1166829125" value="customerBalancingGroupPanel" />
-        <entry key="selection-1013753509" value="addCustomerBalancingGroupBT" />
         <entry key="selection-937544469" value="contractIdCB" />
         <entry key="selection-1090821760" value="sourceSystemCB" />
+        <entry key="selection2129393188" value="detailsTabbedPane" />
+        <entry key="selection-1013753509" value="durationStartDC" />
       </node>
     </node>
   </component>
