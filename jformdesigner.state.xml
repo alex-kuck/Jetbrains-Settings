@@ -12,10 +12,11 @@
       <entry key="properties.expanded.constraints" value="false" />
       <entry key="properties.expanded.category.expert" value="true" />
       <entry key="newform.superclass.history1" value="javax.swing.JDialog" />
-      <entry key="newform.superclass" value="javax.swing.JDialog" />
+      <entry key="newform.superclass" value="javax.swing.JPanel" />
       <entry key="newform.buttonbar" value="ok" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="chooser.beanclass.history4" value="javax.swing.JPanel" />
+      <entry key="newform.superclass.history2" value="javax.swing.JPanel" />
       <node name="forms">
         <entry key="paletteexpanded-2018430881" value="components,containers" />
         <entry key="selection-463747533" value="panel1" />
