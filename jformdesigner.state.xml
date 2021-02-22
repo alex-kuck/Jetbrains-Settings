@@ -16,6 +16,7 @@
       <entry key="newform.toolkit" value="Swing" />
       <entry key="chooser.beanclass.history4" value="javax.swing.JPanel" />
       <entry key="newform.superclass.history2" value="javax.swing.JPanel" />
+      <entry key="properties.expanded.bindings" value="true" />
       <node name="forms">
         <entry key="paletteexpanded-2018430881" value="components,containers" />
         <entry key="selection-463747533" value="panel1" />
@@ -35,6 +36,7 @@
         <entry key="selection-1173666972" value="deviationDataBT" />
         <entry key="selection-1013753509" value="this" />
         <entry key="selection-609489895" value="this" />
+        <entry key="selection698532196" value="okBT" />
       </node>
     </node>
   </component>
