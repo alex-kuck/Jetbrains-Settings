@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Connect Q-DB" />
-    <option name="defaultScopeName" value="Connect Q-DB" />
-    <option name="SEARCH_SCOPE" value="Connect Q-DB" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
