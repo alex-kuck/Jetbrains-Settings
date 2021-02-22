@@ -27,7 +27,6 @@
         <entry key="selection-937544469" value="contractIdCB" />
         <entry key="selection-1090821760" value="sourceSystemCB" />
         <entry key="selection2129393188" value="detailsTabbedPane" />
-        <entry key="selection-1013753509" value="durationStartDC" />
         <entry key="paletteexpanded-398133096" value="components,containers" />
         <entry key="selection-609489895" value="this" />
         <entry key="selection-398133096" value="dialogPane" />
@@ -35,6 +34,7 @@
         <entry key="selection-1855090833" value="errorText" />
         <entry key="selection-1166829125" value="customerBalancingGroupTF" />
         <entry key="selection-1173666972" value="deviationDataBT" />
+        <entry key="selection-1013753509" value="this" />
       </node>
     </node>
   </component>
