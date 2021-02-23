@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="prepare-commit-msg" type="AUTO_DETECTED" />
+      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".q.env" type="PLAIN_TEXT" />
       <mapping pattern="post-commit" type="PLAIN_TEXT" />
