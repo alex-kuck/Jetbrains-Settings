@@ -7,20 +7,19 @@
     <node name="designer">
       <entry key="newcontainer.layoutmanager" value="com.jgoodies.forms.layout.FormLayout" />
       <entry key="chooser.beanclass.history1" value="com.eon.pegasus.gas.client.common.component.MagnifierButton" />
-      <entry key="chooser.beanclass.history2" value="com.eon.pegasus.gas.client.common.component.AutoFitEnumComboBox" />
-      <entry key="chooser.beanclass.history3" value="javax.swing.JScrollPane" />
+      <entry key="chooser.beanclass.history2" value="javax.swing.JScrollPane" />
+      <entry key="chooser.beanclass.history3" value="javax.swing.JPanel" />
       <entry key="properties.expanded.category.expert" value="true" />
       <entry key="newform.superclass.history1" value="javax.swing.JDialog" />
       <entry key="newform.superclass" value="javax.swing.JPanel" />
       <entry key="newform.buttonbar" value="ok" />
       <entry key="newform.toolkit" value="Swing" />
-      <entry key="chooser.beanclass.history4" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history4" value="com.eon.pegasus.gas.client.common.component.AutoFitEnumComboBox" />
       <entry key="newform.superclass.history2" value="javax.swing.JPanel" />
       <entry key="properties.expanded.bindings" value="true" />
       <node name="forms">
         <entry key="paletteexpanded-2018430881" value="components,containers" />
         <entry key="selection-463747533" value="panel1" />
-        <entry key="selection702085236" value="businessPartnerRatingValidLB" />
         <entry key="selection1120209499" value="this" />
         <entry key="selection-2076268018" value="this" />
         <entry key="selection-2018430881" value="daIndexCB" />
@@ -37,6 +36,7 @@
         <entry key="selection-1013753509" value="this" />
         <entry key="selection-609489895" value="this" />
         <entry key="selection698532196" value="okBT" />
+        <entry key="selection702085236" value="offerTypeCB" />
       </node>
     </node>
   </component>
