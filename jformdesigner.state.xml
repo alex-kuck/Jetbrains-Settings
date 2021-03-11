@@ -31,14 +31,14 @@
         <entry key="selection-398133096" value="dialogPane" />
         <entry key="selection208489648" value="this" />
         <entry key="selection-1855090833" value="errorText" />
-        <entry key="selection-1166829125" value="customerBalancingGroupTF" />
-        <entry key="selection-1173666972" value="deviationDataBT" />
         <entry key="selection-1013753509" value="this" />
         <entry key="selection698532196" value="okBT" />
         <entry key="selection-609489895" value="balancingGroupTypeCB" />
         <entry key="selection-2106330657" value="mandateCKB" />
         <entry key="selection702085236" value="competitor2Panel" />
         <entry key="selection80207863" value="partnerAccountTF" />
+        <entry key="selection-1173666972" value="deviationDataBT" />
+        <entry key="selection-1166829125" value="customerBalancingGroupTF" />
       </node>
     </node>
   </component>
