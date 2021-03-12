@@ -17,6 +17,7 @@
       <entry key="chooser.beanclass.history4" value="com.eon.pegasus.gas.client.common.component.AutoFitEnumComboBox" />
       <entry key="newform.superclass.history2" value="javax.swing.JPanel" />
       <entry key="properties.expanded.bindings" value="true" />
+      <entry key="chooser.beanclass.history5" value="com.eon.pegasus.gas.client.common.component.RefreshButton" />
       <node name="forms">
         <entry key="paletteexpanded-2018430881" value="components,containers" />
         <entry key="selection-463747533" value="panel1" />
@@ -38,7 +39,7 @@
         <entry key="selection702085236" value="competitor2Panel" />
         <entry key="selection80207863" value="partnerAccountTF" />
         <entry key="selection-1173666972" value="deviationDataBT" />
-        <entry key="selection-1166829125" value="button1" />
+        <entry key="selection-1166829125" value="reimportBalancingGroupsBT" />
       </node>
     </node>
   </component>
