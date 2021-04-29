@@ -6,6 +6,9 @@
     <driver id="clickhouse">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="couchbase_query">
+      <option name="auto-sync" value="true" />
+    </driver>
     <driver id="db2.11">
       <option name="auto-sync" value="false" />
     </driver>
@@ -67,7 +70,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="azure.ms">
-      <artifact id="SQL Server" name="SQL Server" use="true" version="8.2.2" />
+      <artifact id="SQL Server" name="SQL Server" use="true" version="9.2.0" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
       <option name="auto-commit" value="true" />
@@ -84,6 +87,10 @@
     </driver>
     <driver id="mysql_aurora">
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle.19">
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="false" />
     </driver>
     <driver id="oracle">
       <artifact id="Oracle" name="Oracle" use="true" version="12.1.0.2" />

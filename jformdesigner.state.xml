@@ -2,31 +2,44 @@
   <component name="JFormDesigner">
     <entry key="lookandfeel.idea" value="com.mallowigi.idea.lafs.MTDarkLaf" />
     <entry key="updates.lastcheckedversion" value="7.0.3.0.337" />
-    <entry key="updates.lastchecked" value="1607932352825" />
+    <entry key="updates.lastchecked" value="1619572301973" />
     <entry key="updates.infoshown" value="true" />
     <node name="designer">
       <entry key="newcontainer.layoutmanager" value="com.jgoodies.forms.layout.FormLayout" />
       <entry key="chooser.beanclass.history1" value="com.eon.pegasus.gas.client.common.component.MagnifierButton" />
       <entry key="chooser.beanclass.history2" value="javax.swing.JScrollPane" />
-      <entry key="chooser.beanclass.history3" value="com.eon.pegasus.gas.client.common.component.AutoFitEnumComboBox" />
-      <entry key="properties.expanded.constraints" value="false" />
-      <entry key="properties.expanded.category.properties" value="false" />
+      <entry key="chooser.beanclass.history3" value="javax.swing.JPanel" />
       <entry key="properties.expanded.category.expert" value="true" />
+      <entry key="newform.superclass.history1" value="javax.swing.JDialog" />
+      <entry key="newform.superclass" value="javax.swing.JPanel" />
+      <entry key="newform.buttonbar" value="ok" />
+      <entry key="newform.toolkit" value="Swing" />
+      <entry key="chooser.beanclass.history4" value="com.eon.pegasus.gas.client.common.component.AutoFitEnumComboBox" />
+      <entry key="newform.superclass.history2" value="javax.swing.JPanel" />
+      <entry key="properties.expanded.bindings" value="true" />
+      <entry key="chooser.beanclass.history5" value="com.eon.pegasus.gas.client.common.component.RefreshButton" />
       <node name="forms">
         <entry key="paletteexpanded-2018430881" value="components,containers" />
-        <entry key="selection-1071759109" value="spotGasIdCB" />
         <entry key="selection-463747533" value="panel1" />
-        <entry key="selection702085236" value="businessPartnerRatingValidLB" />
-        <entry key="selection-1013753509" value="contactPersonTable" />
-        <entry key="selection-609489895" value="this" />
         <entry key="selection1120209499" value="this" />
         <entry key="selection-2076268018" value="this" />
         <entry key="selection-2018430881" value="daIndexCB" />
+        <entry key="selection-1640084268" value="contractCustomerNameTF" />
+        <entry key="selection2129393188" value="detailsTabbedPane" />
+        <entry key="paletteexpanded-398133096" value="components,containers" />
+        <entry key="selection-398133096" value="dialogPane" />
+        <entry key="selection208489648" value="this" />
+        <entry key="selection-1855090833" value="errorText" />
+        <entry key="selection-1013753509" value="this" />
+        <entry key="selection698532196" value="okBT" />
+        <entry key="selection-609489895" value="balancingGroupTypeCB" />
+        <entry key="selection-2106330657" value="mandateCKB" />
+        <entry key="selection702085236" value="competitor2Panel" />
+        <entry key="selection80207863" value="partnerAccountTF" />
+        <entry key="selection-1173666972" value="deviationDataBT" />
+        <entry key="selection-1166829125" value="reimportBalancingGroupsBT" />
         <entry key="selection-937544469" value="contractIdCB" />
         <entry key="selection-1090821760" value="sourceSystemCB" />
-        <entry key="selection-1166829125" value="contentPanelPosData1" />
-        <entry key="selection-1640084268" value="contractCustomerNameTF" />
-        <entry key="selection-1173666972" value="deviationDataBT" />
       </node>
     </node>
   </component>
