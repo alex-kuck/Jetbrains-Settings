@@ -25,7 +25,6 @@
         <entry key="selection-2076268018" value="this" />
         <entry key="selection-2018430881" value="daIndexCB" />
         <entry key="selection-1640084268" value="contractCustomerNameTF" />
-        <entry key="selection2129393188" value="detailsTabbedPane" />
         <entry key="paletteexpanded-398133096" value="components,containers" />
         <entry key="selection-398133096" value="dialogPane" />
         <entry key="selection208489648" value="this" />
@@ -42,6 +41,7 @@
         <entry key="selection-613560906" value="globalWeatherStationTF" />
         <entry key="selection-1166829125" value="reimportBalancingGroupsBT" />
         <entry key="selection798455805" value="referenceNumberTF" />
+        <entry key="selection2129393188" value="contractsScrollPane" />
       </node>
     </node>
   </component>
