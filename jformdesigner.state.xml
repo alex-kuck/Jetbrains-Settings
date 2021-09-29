@@ -20,7 +20,6 @@
       <entry key="chooser.beanclass.history5" value="com.eon.pegasus.gas.client.common.component.RefreshButton" />
       <node name="forms">
         <entry key="paletteexpanded-2018430881" value="components,containers" />
-        <entry key="selection-463747533" value="panel1" />
         <entry key="selection1120209499" value="this" />
         <entry key="selection-2076268018" value="this" />
         <entry key="selection-2018430881" value="daIndexCB" />
