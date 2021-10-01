@@ -21,7 +21,6 @@
       <node name="forms">
         <entry key="paletteexpanded-2018430881" value="components,containers" />
         <entry key="selection1120209499" value="this" />
-        <entry key="selection-2018430881" value="daIndexCB" />
         <entry key="selection-1640084268" value="contractCustomerNameTF" />
         <entry key="paletteexpanded-398133096" value="components,containers" />
         <entry key="selection-398133096" value="dialogPane" />
@@ -43,6 +42,8 @@
         <entry key="selection1424150256" value="priceSideCB" />
         <entry key="selection1265670653" value="showBidAskSpreadCurveBT" />
         <entry key="selection-2076268018" value="decomposePricingBT" />
+        <entry key="selection-2018430881" value="orderInstrumentsTable" />
+        <entry key="selection-1981144844" value="individualSeriesPanel" />
       </node>
     </node>
   </component>
