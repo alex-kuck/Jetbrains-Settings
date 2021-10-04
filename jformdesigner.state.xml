@@ -42,8 +42,8 @@
         <entry key="selection1265670653" value="showBidAskSpreadCurveBT" />
         <entry key="selection-2076268018" value="decomposePricingBT" />
         <entry key="selection-2018430881" value="orderInstrumentsTable" />
-        <entry key="selection-1981144844" value="endDateDC" />
         <entry key="selection-1166829125" value="endDateDC" />
+        <entry key="selection-1981144844" value="endDateDC" />
       </node>
     </node>
   </component>
