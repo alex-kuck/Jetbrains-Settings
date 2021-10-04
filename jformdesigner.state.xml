@@ -35,7 +35,6 @@
         <entry key="selection-1173666972" value="deviationDataBT" />
         <entry key="selection-937544469" value="contractIdCB" />
         <entry key="selection-1090821760" value="sourceSystemCB" />
-        <entry key="selection-1166829125" value="reimportBalancingGroupsBT" />
         <entry key="selection798455805" value="referenceNumberTF" />
         <entry key="selection2129393188" value="contractsScrollPane" />
         <entry key="selection-613560906" value="weatherStationShortNameTF" />
@@ -44,6 +43,7 @@
         <entry key="selection-2076268018" value="decomposePricingBT" />
         <entry key="selection-2018430881" value="orderInstrumentsTable" />
         <entry key="selection-1981144844" value="endDateDC" />
+        <entry key="selection-1166829125" value="endDateDC" />
       </node>
     </node>
   </component>
