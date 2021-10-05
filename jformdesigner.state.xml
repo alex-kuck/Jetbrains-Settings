@@ -14,10 +14,10 @@
       <entry key="newform.superclass" value="javax.swing.JPanel" />
       <entry key="newform.buttonbar" value="ok" />
       <entry key="newform.toolkit" value="Swing" />
-      <entry key="chooser.beanclass.history4" value="com.eon.pegasus.gas.client.common.component.AutoFitEnumComboBox" />
+      <entry key="chooser.beanclass.history4" value="com.eon.pegasus.gas.client.common.component.RefreshButton" />
       <entry key="newform.superclass.history2" value="javax.swing.JPanel" />
       <entry key="properties.expanded.bindings" value="true" />
-      <entry key="chooser.beanclass.history5" value="com.eon.pegasus.gas.client.common.component.RefreshButton" />
+      <entry key="chooser.beanclass.history5" value="com.eon.pegasus.gas.client.common.component.AutoFitEnumComboBox" />
       <node name="forms">
         <entry key="paletteexpanded-2018430881" value="components,containers" />
         <entry key="selection1120209499" value="this" />
@@ -30,7 +30,6 @@
         <entry key="selection698532196" value="okBT" />
         <entry key="selection-609489895" value="balancingGroupTypeCB" />
         <entry key="selection-2106330657" value="mandateCKB" />
-        <entry key="selection702085236" value="competitor2Panel" />
         <entry key="selection80207863" value="partnerAccountTF" />
         <entry key="selection-1173666972" value="deviationDataBT" />
         <entry key="selection-937544469" value="contractIdCB" />
@@ -40,10 +39,10 @@
         <entry key="selection-613560906" value="weatherStationShortNameTF" />
         <entry key="selection1424150256" value="priceSideCB" />
         <entry key="selection1265670653" value="showBidAskSpreadCurveBT" />
-        <entry key="selection-2076268018" value="decomposePricingBT" />
         <entry key="selection-2018430881" value="orderInstrumentsTable" />
         <entry key="selection-1166829125" value="endDateDC" />
         <entry key="selection-1981144844" value="endDateDC" />
+        <entry key="selection-2076268018" value="titledSeparator1" />
       </node>
     </node>
   </component>
