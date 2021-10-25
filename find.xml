@@ -5,7 +5,6 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -28,12 +27,13 @@
     <mask>!*.log</mask>
     <mask>*PriceSwap*.java</mask>
     <mask>*.xsd</mask>
-    <mask>*Entity.java</mask>
     <mask>*.java</mask>
     <mask>*Enum.java</mask>
     <mask>*.kt</mask>
     <mask>!*Test.java</mask>
-    <mask>*.sql</mask>
     <mask>*.xml</mask>
+    <mask>*.sql</mask>
+    <mask>*DaoImpl.java</mask>
+    <mask>*Entity.java</mask>
   </component>
 </application>
