@@ -26,14 +26,14 @@
     <mask>*Enum.java</mask>
     <mask>*.kt</mask>
     <mask>!*Test.java</mask>
-    <mask>*DaoImpl.java</mask>
     <mask>*Entity.java</mask>
+    <mask>*.sql</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.sql</mask>
+    <mask>*DaoImpl.java</mask>
   </component>
 </application>
