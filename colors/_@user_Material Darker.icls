@@ -4,7 +4,7 @@
     <property name="created">2021-12-13T16:20:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-01-10T09:34:27</property>
+    <property name="modified">2022-01-10T09:00:13</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <console-font>
@@ -3671,8 +3671,8 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
-    <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Scala Type Alias" baseAttributes="" />
+    <option name="Scala Type parameter" baseAttributes="" />
     <option name="StandardF Java Collection">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
