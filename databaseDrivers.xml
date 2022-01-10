@@ -1,0 +1,34 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="db2" name="DB2 (LUW)" />
+    <driver id="db2.jtopen" name="DB2 (JTOpen)" />
+    <driver id="derby.embedded" name="Derby (Embedded)" />
+    <driver id="derby.remote" name="Derby (Remote)" />
+    <driver id="h2.unified">
+      <artifact id="H2" name="H2" use="true" version="1.4.200" />
+    </driver>
+    <driver id="mariadb">
+      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.6.0" />
+    </driver>
+    <driver id="sqlserver.ms" name="SQL Server (Microsoft)">
+      <artifact id="SQL Server" name="SQL Server" use="true" version="9.4.0" />
+    </driver>
+    <driver id="sqlserver.jtds" name="SQL Server (jTds)" />
+    <driver id="azure.ms">
+      <artifact id="SQL Server" name="SQL Server" use="true" version="9.4.0" />
+      <artifact id="MSAL4J" name="MSAL4J" use="true" version="1.11.0" />
+    </driver>
+    <driver id="mysql.8">
+      <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
+    </driver>
+    <driver id="mysql" name="MySQL" />
+    <driver id="oracle">
+      <artifact id="Oracle" name="Oracle" use="true" version="12.1.0.2" />
+    </driver>
+    <driver id="snowflake">
+      <artifact id="Snowflake" name="Snowflake" use="true" version="3.12.9" />
+    </driver>
+    <driver id="sqlite.xerial" name="Sqlite (Xerial)" />
+    <driver id="sybase.ase" name="Sybase (Native)" />
+  </component>
+</application>

@@ -1,0 +1,50 @@
+<application>
+  <component name="JFormDesigner">
+    <entry key="lookandfeel.idea" value="com.mallowigi.idea.lafs.MTDarkLaf" />
+    <entry key="updates.lastcheckedversion" value="7.0.5.1.409" />
+    <entry key="updates.lastchecked" value="1641466987889" />
+    <entry key="updates.infoshown" value="true" />
+    <node name="designer">
+      <entry key="newcontainer.layoutmanager" value="com.jgoodies.forms.layout.FormLayout" />
+      <entry key="chooser.beanclass.history1" value="com.eon.pegasus.gas.client.common.component.MagnifierButton" />
+      <entry key="chooser.beanclass.history2" value="javax.swing.JScrollPane" />
+      <entry key="chooser.beanclass.history3" value="javax.swing.JPanel" />
+      <entry key="properties.expanded.category.expert" value="true" />
+      <entry key="newform.superclass.history1" value="javax.swing.JDialog" />
+      <entry key="newform.superclass" value="javax.swing.JPanel" />
+      <entry key="newform.buttonbar" value="ok" />
+      <entry key="newform.toolkit" value="Swing" />
+      <entry key="chooser.beanclass.history4" value="com.eon.pegasus.gas.client.common.component.RefreshButton" />
+      <entry key="newform.superclass.history2" value="javax.swing.JPanel" />
+      <entry key="properties.expanded.bindings" value="true" />
+      <entry key="chooser.beanclass.history5" value="com.eon.pegasus.gas.client.common.component.AutoFitEnumComboBox" />
+      <node name="forms">
+        <entry key="paletteexpanded-2018430881" value="components,containers" />
+        <entry key="selection1120209499" value="this" />
+        <entry key="selection-1640084268" value="contractCustomerNameTF" />
+        <entry key="paletteexpanded-398133096" value="components,containers" />
+        <entry key="selection-398133096" value="dialogPane" />
+        <entry key="selection208489648" value="this" />
+        <entry key="selection-1855090833" value="errorText" />
+        <entry key="selection-1013753509" value="this" />
+        <entry key="selection698532196" value="okBT" />
+        <entry key="selection-609489895" value="balancingGroupTypeCB" />
+        <entry key="selection-2106330657" value="mandateCKB" />
+        <entry key="selection80207863" value="partnerAccountTF" />
+        <entry key="selection-1173666972" value="deviationDataBT" />
+        <entry key="selection-937544469" value="contractIdCB" />
+        <entry key="selection-1090821760" value="sourceSystemCB" />
+        <entry key="selection798455805" value="referenceNumberTF" />
+        <entry key="selection2129393188" value="contractsScrollPane" />
+        <entry key="selection-613560906" value="weatherStationShortNameTF" />
+        <entry key="selection1424150256" value="priceSideCB" />
+        <entry key="selection1265670653" value="showBidAskSpreadCurveBT" />
+        <entry key="selection-1981144844" value="endDateDC" />
+        <entry key="selection-2076268018" value="titledSeparator1" />
+        <entry key="selection-1166829125" value="endDateDC" />
+        <entry key="selection-2018430881" value="orderInstrumentsTable" />
+        <entry key="selection601347265" value="aggregationTable" />
+      </node>
+    </node>
+  </component>
+</application>
